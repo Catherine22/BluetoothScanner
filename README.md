@@ -1,0 +1,1 @@
+Set disableLE in MyBluetoothAdapter = false to disable Bluetooth LE.
